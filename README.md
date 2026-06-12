@@ -1,5 +1,1 @@
-- Hi, I’m @Fullius
-- I’m interested in coding, games and having no social life
-- I’m currently learning C#
-- How to reach me - You can't. End of story.
-- I am bisexual and questioning non-binary. My pronouns are they/them for anyone wondering.
+An aspiring mathematician.
